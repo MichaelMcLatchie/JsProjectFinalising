@@ -1,3 +1,5 @@
+// fetches details, stores, filters
+
 // Grab elements
 const searchPokemon = document.getElementById('pokemon-search-pokedex');
 const results = document.querySelector('.pokemon-result-pokedex');

@@ -7,6 +7,7 @@
 
 /* global Chart */
 // this is put in because line24 was showing an error that wasnt an error
+// written proceduarely incase of issues with structure (not sure about JS library so keeping it simnple)
 
 // Sets global chart.js defaults
 Chart.defaults.backgroundColor = '#000';

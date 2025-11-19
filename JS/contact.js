@@ -1,5 +1,5 @@
 /**
- * @fileoverview contact.js handles client side form submission, validation, done through localstorage (no GET)
+ * @fileoverview contact.js handles client side form submission, validation, done through localstorage (no GET for cybersecurity purposes)
  * @author Michael McLatchie
  */
 

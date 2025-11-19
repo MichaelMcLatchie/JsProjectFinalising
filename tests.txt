@@ -1,0 +1,4 @@
+data fetching and display accuracy (check json file and match data with whats displayed)
+Search bar URL query parameter is accurate to a pokemon
+
+
